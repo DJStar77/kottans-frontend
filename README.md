@@ -1,10 +1,9 @@
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/DJStar77/kottans-frontend)
 
 # My impressions of the Front-End course from Kottans.
-===============
 
-Thanks to Kottans for this exellent course! So, this is my progress history:
-===============
+###Thanks to Kottans for this exellent course! So, this is my progress history:
+
 
 - [x] Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
 - [x] Finish [try.github.io](https://try.github.io/levels/1/challenges/1).
