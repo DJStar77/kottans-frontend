@@ -20,7 +20,8 @@
 
 0. Stage 0.2: **Linux, Command Line, HTTP Tools**
 
-	- [ ] [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+	- [x] [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+	![](pics/02.1.png)
 	- [ ] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 	- [ ] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
