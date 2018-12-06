@@ -8,10 +8,10 @@
 0. Stage 0.1:
 
 	- [x] Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
-	![](pics/01.1.png)
+	![](task_linux_cli/01.1.png)
 	- [x] Finish [try.github.io](https://try.github.io/levels/1/challenges/1).
-	![](pics/01.2.png)
-	![](pics/01.3.png)
+	![](task_linux_cli/01.2.png)
+	![](task_linux_cli/01.3.png)
 	- [x] Create [repository](https://github.com/DJStar77/kottans-frontend) named `kottans-frontend`.
 	- [x] Create [`README.md`](https://github.com/DJStar77/kottans-frontend/blob/master/README.md) for the repository.
 	- [x] Describe your impressions about learned materials.
@@ -19,9 +19,9 @@
 	- [x] Study Extra Materials below to improve your skills.
 
 0. Stage 0.2: **Linux, Command Line, HTTP Tools**
-
+	## Linux CLI, and HTTP
 	- [x] [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-	![](pics/02.1.png)
+	![](task_linux_cli/02.1.png)	
 	- [ ] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 	- [ ] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
