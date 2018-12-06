@@ -1,7 +1,8 @@
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/DJStar77/kottans-frontend)
 
-# My impressions of the Front-End course from Kottans
+# My impressions of the Front-End course from Kottans.
 ===============
+
 Thanks to Kottans for this exellent course! So, this is my progress history:
 ===============
 
