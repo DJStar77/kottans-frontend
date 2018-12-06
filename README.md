@@ -1,18 +1,21 @@
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/DJStar77/kottans-frontend)
 
-# My impressions of the Front-End course from Kottans.#
+#My impressions of the Front-End course from Kottans.
 
 
-###Thanks to Kottans for this exellent course! So, this is my progress history:###
+###Thanks to Kottans for this exellent course! So, this is my progress history:
 
 0. Stage 0.1:
 
 	- [x] Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
+	![](pics/01.1.png)
 	- [x] Finish [try.github.io](https://try.github.io/levels/1/challenges/1).
-	- [x] Create repository named `kottans-frontend`.
-	- [x] Create `README.md` for the repository.
+	![](pics/01.2.png)
+	![](pics/01.3.png)
+	- [x] Create [repository](https://github.com/DJStar77/kottans-frontend) named `kottans-frontend`.
+	- [x] Create [`README.md`](https://github.com/DJStar77/kottans-frontend/blob/master/README.md) for the repository.
 	- [x] Describe your impressions about learned materials.
-	- [x] Send a pull-request to [Kottans/mock-repo](https://github.com/Kottans/mock-repo) proposing a change.
+	- [x] Send a [pull-request](https://github.com/kottans/mock-repo/pull/219) to [Kottans/mock-repo](https://github.com/Kottans/mock-repo) proposing a change.
 	- [x] Study Extra Materials below to improve your skills.
 
 0. Stage 0.2: **Linux, Command Line, HTTP Tools**
