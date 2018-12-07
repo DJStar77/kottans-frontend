@@ -27,7 +27,7 @@
 
 0. Stage 0.3: **Git for Team Collaboration**
 
-	- [ ] [What is Version Control](https://classroom.udacity.com/courses/ud123/)
+	- [x] [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 	- [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
 0. Stage 0.4: **Intro to HTML and CSS**
