@@ -1,9 +1,9 @@
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/DJStar77/kottans-frontend)
 
-#My impressions of the Front-End course from Kottans.
+# My impressions of the Front-End course from Kottans.
 
 
-###Thanks to Kottans for this exellent course! So, this is my progress history:
+### Thanks to Kottans for this exellent course! So, this is my progress history:
 
 0. Stage 0.1:
 
@@ -22,8 +22,8 @@
 	## Linux CLI, and HTTP
 	- [x] [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 	![](task_linux_cli/02.1.png)	
-	- [ ] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-	- [ ] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+	- [x] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+	- [x] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 0. Stage 0.3: **Git for Team Collaboration**
 
