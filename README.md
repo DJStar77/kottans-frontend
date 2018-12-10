@@ -25,10 +25,13 @@
 	- [x] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 	- [x] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
+## Git Collaboration
 0. Stage 0.3: **Git for Team Collaboration**
 
 	- [x] [What is Version Control](https://classroom.udacity.com/courses/ud123/)
-	- [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+	![](task_git_collaboration/03.1.png)
+	- [x] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+	![](task_git_collaboration/03.2.png)
 
 0. Stage 0.4: **Intro to HTML and CSS**
 
