@@ -33,9 +33,11 @@
 	- [x] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 	![](task_git_collaboration/03.2.png)
 
+## Intro to HTML and CSS
 0. Stage 0.4: **Intro to HTML and CSS**
 
-	- [ ] [Intro to HTML & CSS (Eng)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+	- [x] [Intro to HTML & CSS (Eng)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+	![](task_html_css/04.1.png)
 	- [ ] [HTML Academy: first two sections, "Basics of HTML" & "Basics of CSS" — free exercises only, you don't have to do paid ones (Rus) [~10 hours]](https://htmlacademy.ru/)
 
 0. Stage 0.5: **Responsive Web Design**
