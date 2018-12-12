@@ -38,7 +38,9 @@
 
 	- [x] [Intro to HTML & CSS (Eng)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 	![](task_html_css/04.1.png)
-	- [ ] [HTML Academy: first two sections, "Basics of HTML" & "Basics of CSS" — free exercises only, you don't have to do paid ones (Rus) [~10 hours]](https://htmlacademy.ru/)
+	- [x] [HTML Academy: first two sections, "Basics of HTML" & "Basics of CSS" — free exercises only, you don't have to do paid ones (Rus) [~10 hours]](https://htmlacademy.ru/)
+	![](task_html_css/04.2-1.png)
+	![](task_html_css/04.2-2.png)
 
 0. Stage 0.5: **Responsive Web Design**
 	- [ ] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
