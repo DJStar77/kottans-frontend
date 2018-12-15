@@ -42,9 +42,12 @@
 	![](task_html_css/04.2-1.png)
 	![](task_html_css/04.2-2.png)
 
+## Responsive Web Design
 0. Stage 0.5: **Responsive Web Design**
-	- [ ] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-	- [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
+	- [x] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+	![](task_rwd_flex/05.1.png)
+	- [x] [Flexbox Froggy](http://flexboxfroggy.com/)
+	![](task_rwd_flex/05.2.png)
 
 0. Stage 0.6: **JavaScript Basics**
 	- [ ] [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
