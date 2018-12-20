@@ -50,7 +50,8 @@
 	![](task_rwd_flex/05.2.png)
 
 0. Stage 0.6: **JavaScript Basics**
-	- [ ] [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
+	- [x] [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
+	![](task_js_basic/06.1.png)
 	- [ ] [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
 
 0. Stage 0.7: **Document Object Model**
