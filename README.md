@@ -49,10 +49,14 @@
 	- [x] [Flexbox Froggy](http://flexboxfroggy.com/)
 	![](task_rwd_flex/05.2.png)
 
+## JavaScript Basics
 0. Stage 0.6: **JavaScript Basics**
 	- [x] [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
 	![](task_js_basic/06.1.png)
-	- [ ] [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+	- [x] [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+	![](task_js_basic/06.2.png)
+	- [ ] [Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
+	
 
 0. Stage 0.7: **Document Object Model**
 	- [ ] [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117) (4 lessons, estimated completion time 8 hrs)
