@@ -56,10 +56,15 @@
 	- [x] [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
 	![](task_js_basic/06.2.png)	
 
+## DOM
 0. Stage 0.7: **Document Object Model**
-	- [ ] [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117) (4 lessons, estimated completion time 8 hrs)
-	- [ ] [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) finish the second half of the course (10 lessons) and save a screenshot.
-	- [ ] [Practical task](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md#then)
+	- [x] [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117) (4 lessons, estimated completion time 8 hrs)
+	![](task_dom/07.1.png)
+	- [x] [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) finish the second half of the course (10 lessons) and save a screenshot.
+	![](task_dom/07.2.png)
+	- [x] [Practical task](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md#then)
+	[https://djstar77.github.io/task-dom](https://djstar77.github.io/task-dom)
+
 
 0. Stage 0.8: **Building a Tiny JS World**
 	- [ ] Build a tiny JS world model following the instructions [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
