@@ -7,68 +7,34 @@ var data = [
 	{title:'Аппаратный маникюр', img:'<img src="img/6.jpg">', content:"Этот маникюр пришел к нам из Германии и быстро завоевал популярность. Делается он при помощи фрезера – специального аппарата, который может шлифовать и кожу, и ногтевую пластину. При помощи этой машинки можно убрать ороговевшие частички кожи и гель-лак, придать ногтю нужную форму. Также, фрезер позволяет удалить кутикулу, но, чтобы полностью избавиться от нее, придется совместить аппаратный маникюр с классическим. Процедура не рекомендована девушкам с тонкой кожей и тонкой ногтевой пластиной.<br>"},
 	];
 
-var item1 = document.querySelector('.nav-list__item_1');
-item1.addEventListener('click', function(event) {
-	document.title = data[0].title;
+var item = document.querySelector('.nav-list');
+item.addEventListener('click', function(event) {		
+	switch (event.target.textContent) {
+		case "Классический":			
+			var n = 0;
+			break;
+		case "Европейский":
+			var n = 1;
+			break;
+		case "Японский":
+			var n = 2;
+			break;
+		case "Американский":
+			var n = 3;
+			break;
+		case "Бразильский":
+			var n = 4;
+			break;
+		case "Аппаратный":
+			var n = 5;
+			break;
+	}
 	var cont = document.querySelector('.content');
 				if (cont.firstElementChild) {
 					var p = cont.firstElementChild;
 					cont.removeChild(p);
-				}	
-	cont.innerHTML = data[0].content + data[0].img;
-});
+				}
+	document.title = data[n].title;	
+	cont.innerHTML = data[n].content + data[n].img;
 
-var item2 = document.querySelector('.nav-list__item_2');
-item2.addEventListener('click', function(event) {
-	document.title = data[1].title;
-	var cont = document.querySelector('.content');
-				if (cont.firstElementChild) {
-					var p = cont.firstElementChild;
-					cont.removeChild(p);
-				}	
-	cont.innerHTML = data[1].content + data[1].img;
-});
-
-var item3 = document.querySelector('.nav-list__item_3');
-item3.addEventListener('click', function(event) {
-	document.title = data[2].title;
-	var cont = document.querySelector('.content');
-				if (cont.firstElementChild) {
-					var p = cont.firstElementChild;
-					cont.removeChild(p);
-				}	
-	cont.innerHTML = data[2].content + data[2].img;
-});
-
-var item4 = document.querySelector('.nav-list__item_4');
-item4.addEventListener('click', function(event) {
-	document.title = data[3].title;
-	var cont = document.querySelector('.content');
-				if (cont.firstElementChild) {
-					var p = cont.firstElementChild;
-					cont.removeChild(p);
-				}	
-	cont.innerHTML = data[3].content + data[3].img;
-});
-
-var item5 = document.querySelector('.nav-list__item_5');
-item5.addEventListener('click', function(event) {
-	document.title = data[4].title;
-	var cont = document.querySelector('.content');
-				if (cont.firstElementChild) {
-					var p = cont.firstElementChild;
-					cont.removeChild(p);
-				}	
-	cont.innerHTML = data[4].content + data[4].img;
-});
-
-var item6 = document.querySelector('.nav-list__item_6');
-item6.addEventListener('click', function(event) {
-	document.title = data[5].title;
-	var cont = document.querySelector('.content');
-				if (cont.firstElementChild) {
-					var p = cont.firstElementChild;
-					cont.removeChild(p);
-				}	
-	cont.innerHTML = data[5].content + data[5].img;
 });
