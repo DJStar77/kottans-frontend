@@ -63,7 +63,7 @@
 	- [x] [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) finish the second half of the course (10 lessons) and save a screenshot.
 	![](task_dom/07.2.png)
 	- [x] [Practical task](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md#then)
-	[https://djstar77.github.io/task-dom](https://djstar77.github.io/task-dom)
+	[Demo](https://djstar77.github.io/task-dom) [Code](https://github.com/DJStar77/kottans-frontend/tree/master/task_dom) 
 
 
 0. Stage 0.8: **Building a Tiny JS World**
