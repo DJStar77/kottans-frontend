@@ -65,9 +65,10 @@
 	- [x] [Practical task](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md#then)
 	[Demo](https://djstar77.github.io/task-dom) [Code](https://github.com/DJStar77/kottans-frontend/tree/master/task_js_dom) 
 
-
+## Tiny JS World
 0. Stage 0.8: **Building a Tiny JS World**
-	- [ ] Build a tiny JS world model following the instructions [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
+	- [x] Build a tiny JS world model following the instructions [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
+	[Demo](https://djstar77.github.io/tiny-js-world/index.html) [Code](https://github.com/DJStar77/a-tiny-JS-world) 
 
 0. Stage 0.9: **Object-Oriented JavaScript**
 	- [ ] [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
